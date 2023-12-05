@@ -1,0 +1,1 @@
+puts ("My age in seconds is #{( (30*365) + 8)*24*60*60} sec.")
