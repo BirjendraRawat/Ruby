@@ -40,8 +40,4 @@ end
 
 puts Grandma.new
 
-# class Name
-# 	def initialize
-# 		@year = 1930
-# 		@reply = gets.chomp
-# 		
+		
