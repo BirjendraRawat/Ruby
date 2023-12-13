@@ -90,7 +90,7 @@ current_month = current_date.strftime("%m")
 current_month = current_month.to_i
 # puts current_month
 current_year = current_date.strftime("%Y")
-puts current_year
+# puts current_year
 
 x = 1
 while x <= 1000
